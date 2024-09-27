@@ -1,16 +1,14 @@
-## Hi there 👋
+Boas Vindas Ao Meu perfil 🖤
+
+ Meu nome é Gabriel Silva Salabai
+ 
+ Estou estudando a progamação Java
+
+Meio de contato: salabai.gabriel@escola.pr.gov.br
+
+![](https://tenor.com/pt-BR/view/dbz-goku-gif-18344448853816170087)
+
+
 
 <!--
 **Salabaita/Salabaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
