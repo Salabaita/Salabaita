@@ -1,4 +1,4 @@
-Boas Vindas Ao Meu perfil 🖤
+Boas Vindas Ao Meu perfil 
 
  Meu nome é Gabriel Silva Salabai
  
